@@ -6,7 +6,7 @@ A plugin for Vercidium Audio that enables compatibilty with Unity.
 
 ## Requirements
 This plugin requires the following:
-- [Vecidium Audio SDK](https://vercidium.com)
+- [Vercidium Audio SDK](https://vercidium.com)
 - A Windows, Mac, Linux and/or Android build target
 - Unity 2021.3 LTS+
 
